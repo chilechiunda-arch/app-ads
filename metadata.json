@@ -1,0 +1,6 @@
+{
+  "name": "App-ads.txt Publisher & Validator",
+  "description": "Host, validate, and manage your app-ads.txt developer verification file for programmatic ad networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
